@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Reddit - Comments Tab
 // @namespace    https://github.com/Dr-Turner
-// @version      0.2
-// @description  Adds a 'comments' tab to the tab-bar in every subreddit
+// @version      0.3
+// @description  Adds a 'comments' tab to the tab-bar in every subreddit and mutireddit
 // @author       Dave Turner
 // @match        https://www.reddit.com/r/*
+// @match        https://www.reddit.com/me/m/*
 // ==/UserScript==
 
 (function() {
